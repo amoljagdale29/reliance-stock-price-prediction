@@ -8,4 +8,4 @@ used Stacked LSTM for price prediction
 
 preprocessing - drop null values and min max scaler 
 
-using last 100 days data predicted next 50 days stock pric
+for each prediction used last 100 days data
